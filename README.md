@@ -113,10 +113,14 @@ PolicyMind-AI/
 ├── PolicyMind_AI.ipynb
 ├── README.md
 ├── LICENSE
+├── .gitignore
+│
+├── assets/
+│     └── rag_system_design.png
 │
 └── PolicyDocuments/
-      ├── HDFC-Life-Easy-Health.pdf
-      ├── HDFC-Life-Group-Term-Life-Policy.pdf
+      ├── HDFC-Life-Easy-Health-101N110V03-Policy-Bond-Single-Pay.pdf
+      └── HDFC-Life-Group-Term-Life-Policy.pdf
 ```
 
 ---
