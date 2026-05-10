@@ -52,6 +52,8 @@ This enables users to quickly understand policy information without manually sea
 
 # Project Architecture
 
+![RAG System Design](assets/RAG-SystemDesign.png)
+
 ```text
 Insurance PDFs
        ↓
