@@ -3,6 +3,21 @@
 PolicyMind AI is a Retrieval-Augmented Generation (RAG) based insurance assistant built using Gemma 4, Gemini Embeddings, and ChromaDB. It helps users instantly understand complex insurance policy documents through semantic search, grounded AI responses, and citation-based answers without manually reading lengthy PDFs.
 
 ---
+# Getting Started
+
+## Prerequisites
+- Python 3.8+
+- Google API Key (for Gemini Embeddings and Gemma 4)
+- pip
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/BrahmamChava/PolicyMind-AI.git
+   cd PolicyMind-AI
+
+---
 
 # Problem Statement
 
