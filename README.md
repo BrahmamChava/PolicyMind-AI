@@ -5,13 +5,6 @@ PolicyMind AI is a Retrieval-Augmented Generation (RAG) based insurance assistan
 ---
 # Getting Started
 
-
-
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Gemma4](https://img.shields.io/badge/Model-Gemma4-orange)
-![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-green)
-![RAG](https://img.shields.io/badge/Architecture-RAG-red)
-
 ## Prerequisites
 - Python 3.8+
 - Google API Key (for Gemini Embeddings and Gemma 4)
